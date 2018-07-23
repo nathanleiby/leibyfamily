@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+# Leiby Family Website
 
-You can use the [editor on GitHub](https://github.com/nathanleiby/leibyfamily/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+**Paul Leiby** is a 'Distinguished Research Scientist' at the Oak Ridge National Laboratory, where he researches energy security and alternative fuels. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Here is his [professional page](http://pzl1.ornl.gov/index.html).
 
-### Markdown
+**Nicholas Leiby** is a research fellow and office monkey at the United Nations Industrial Development Organization in China, researching the Chinese and global biotechnology industries. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Here is his [personal page](www.nicholasleiby.com). 
 
-```markdown
-Syntax highlighted code block
+**Nathan Leiby** is a sophomore at Harvard currently studying everything from music theory to health policy. 
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nathanleiby/leibyfamily/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Here is his [personal page](www.nathanleiby.com). 

@@ -1,4 +1,4 @@
-**Paul Leiby** is a 'Distinguished Research Scientist' at the Oak Ridge National Laboratory, where he researches energy security and alternative fuels. 
+**Paul Leiby** is a 'Distinguished Research Scientist' at the Oak Ridge National Laboratory, where he researches energy security, transportation energy, and alternative fuels. 
 
 Here is his [professional page](http://pzl1.ornl.gov/index.html).
 

@@ -1,4 +1,7 @@
 theme: jekyll-theme-slate
 
-title: "Leiby family"
+title: "Leiby Family Website"
 description: ""
+
+github:
+  is_project_page: false

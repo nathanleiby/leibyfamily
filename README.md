@@ -6,6 +6,6 @@ Here is his [professional page](https://www.ornl.gov/staff-profile/paul-newsome-
 
 Here is his [personal page](http://www.nicholasleiby.com).
 
-**Nathan Leiby** is a sophomore at Harvard currently studying everything from music theory to health policy. 
+**Nathan Leiby** is a software engineer at Clever, an K-12 education company based in San Francisco. 
 
 Here is his [personal page](http://www.nathanleiby.com).
